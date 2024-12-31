@@ -1,6 +1,9 @@
 
 # Flow.fun
 
+# Deployed Smart Contract Address
+0x848534517Fb29B0A6Ec1b9FCcE57C35efdE5E7fe
+
 How cool is Pump.fun, right.
 
 But its cool only on Solana, Why not on Flow.?
