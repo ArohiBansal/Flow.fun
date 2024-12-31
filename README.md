@@ -3,21 +3,20 @@
 
 How cool is Pump.fun, right.
 
-But its cool only on Solana, Why not on Ethereum.?
+But its cool only on Solana, Why not on Flow.?
 
-This was the question first asked and we did research. The conclusion: Its possible on Ethereum too. 
+This was the question first asked and we did research. The conclusion: Its possible on Flow too. 
 
 How? 
 
-With [Flow.fun]
-
+With Flow.fun
 But what makes it unique?
 
-This will not be another project focusing only on memecoin, there are more than just memecoin on ethereum, and we will utilise it to fullest.
+This will not be another project focusing only on memecoin, there are more than just memecoin on Flow, and we will utilise it to fullest.
 
 One liner intro of the project:
 
-A launchpad targeted towards communities according to use cases not just with memecoins, but assets, content and many more. Our vision: interchain asset transfer available on launchpad for combining distributed community of ethereum at one place. How are we building it?
+A launchpad targeted towards communities according to use cases not just with memecoins, but assets, content and many more. Our vision: interchain asset transfer available on launchpad for combining distributed community of Flow at one place. How are we building it?
 
 What to Expect:
 
@@ -25,7 +24,7 @@ What to Expect:
 Unlike traditional launchpads, Flow.fun will support a wide array of assets beyond memecoins, including unique content and other blockchain-based resources.
 
 ### Deployment on NERO: 
-We are deploying Flow.fun on the Linea chain to leverage its unique capabilities and performance. Nero's features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
+We are deploying Flow.fun on the Flow chain to leverage its unique capabilities and performance. Flow features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
 
 ### Advanced Analytics with Chainsight: 
 To provide actionable insights and real-time monitoring, we will integrate Chainsight into our platform. This will allow users to track transactions, analyze network performance, and gain valuable insights into blockchain activities.
