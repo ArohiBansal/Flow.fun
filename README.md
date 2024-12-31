@@ -26,7 +26,7 @@ What to Expect:
 ### Diverse Asset Support: 
 Unlike traditional launchpads, Flow.fun will support a wide array of assets beyond memecoins, including unique content and other blockchain-based resources.
 
-### Deployment on NERO: 
+### Deployment on Flow Chain: 
 We are deploying Flow.fun on the Flow chain to leverage its unique capabilities and performance. Flow features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
 
 ### Advanced Analytics with Chainsight: 
